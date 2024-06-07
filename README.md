@@ -7,4 +7,4 @@ public GameObject A;//UGUI Panel
 A.SetOutLineWithBlur();
 ```
 效果：
-![image](01.png)
+![image](https://github.com/AX0201/UnityShaderUIImageBlurAndOutLine/blob/main/01.PNG)
